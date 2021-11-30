@@ -8,3 +8,5 @@ AKTUALIZACJA
 
 POWROT DO POPRZEDNIEGO STANU
 tset
+
+i jeszcze jeden
