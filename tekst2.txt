@@ -9,3 +9,5 @@ POWROT DO POPRZEDNIEGO STANU
 tset
 
 kolejna zmiana
+
+dla kazdego zawsze mila zmiana
