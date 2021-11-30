@@ -5,4 +5,10 @@ zmiana 04
 zmiana 5
 zmiana 7
 
+HEAD
 NAPRAWA PLIKOW - hotFix-001
+
+AKTUALIZACJA
+
+POWROT DO POPRZEDNIEGO STANU
+tset
