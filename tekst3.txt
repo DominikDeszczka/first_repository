@@ -1,4 +1,5 @@
 zmiana w celu zrobienia zadania numer 4
+zmiana_v_8
 
 HEAD
 NAPRAWA PLIKOW - hotFix-001

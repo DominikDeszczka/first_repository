@@ -5,6 +5,8 @@ zmiana 04
 zmiana 5
 zmiana 7
 
+zmiana_v_8
+
 HEAD
 NAPRAWA PLIKOW - hotFix-001
 
