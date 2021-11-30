@@ -4,3 +4,5 @@ zmiana 3
 zmiana 04
 zmiana 5
 zmiana 7
+
+AKTUALIZACJA
