@@ -9,5 +9,3 @@ POWROT DO POPRZEDNIEGO STANU
 tset
 
 kolejna zmiana
-
-zmienimy to
