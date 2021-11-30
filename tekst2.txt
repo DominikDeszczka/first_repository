@@ -1,1 +1,3 @@
 test tset
+
+NAPRAWA PLIKOW - hotFix-001
