@@ -7,3 +7,5 @@ AKTUALIZACJA
 
 POWROT DO POPRZEDNIEGO STANU
 tset
+
+kolejna zmiana
